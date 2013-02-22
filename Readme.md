@@ -1,11 +1,10 @@
-
-# css-reset
+# meyer-reset
 
   Component: Eric Meyer's CSS reset.
 
 ## Installation
 
-    $ component install ianstormtaylor/css-reset
+    $ component install ianstormtaylor/meyer-reset
 
 ## License
 
