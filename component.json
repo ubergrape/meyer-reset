@@ -1,7 +1,11 @@
 {
-  "name": "css-reset",
-  "repo": "ianstormtaylor/css-reset",
+  "name": "meyer-reset",
+  "repo": "ianstormtaylor/meyer-reset",
   "description": "Component: Eric Meyer's CSS reset.",
+  "keywords": [
+    "css",
+    "reset"
+  ],
   "version": "2.0",
   "license": "MIT",
   "styles": [
