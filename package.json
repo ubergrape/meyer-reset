@@ -1,0 +1,12 @@
+{
+  "name": "meyer-reset",
+  "version": "1.0.0",
+  "description": "Component: Eric Meyer's CSS reset.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ubergrape/meyer-reset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/ubergrape/meyer-reset"
+}
